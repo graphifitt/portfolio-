@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Graphifitt Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Graphifitt</h1>
+    <p>Creative Web Designer & Developer</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>I create fast, secure and elegant websites for businesses and individuals. Let's build something awesome together!</p>
+  </section>
+
+  <section class="services">
+    <h2>What I Offer</h2>
+    <ul>
+      <li>✅ Website Design & Development</li>
+      <li>⚡ Speed Optimization</li>
+      <li>🔐 Security & Maintenance</li>
+      <li>🛠 SEO & Support</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact Me</h2>
+    <p>📧 Email: yourname@example.com</p>
+    <p>💼 LinkedIn: <a href="https://www.linkedin.com/in/yourname" target="_blank">yourname</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Graphifitt</p>
+  </footer>
+</body>
+</html>
